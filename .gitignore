@@ -1,0 +1,15 @@
+.metadata/
+*Debug/
+*.settings/
+.vscode
+.ai
+*.ipynb_checkpoints
+*.tflite
+
+# Models
+tf-models/and-gate
+tf-models/nor-gate
+tf-models/or-gate
+tf-models/xnor-gate
+tf-models/xor-gate
+tf-models/TFLM-models
